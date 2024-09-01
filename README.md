@@ -80,10 +80,10 @@ Answer:-Methods for Ensuring Quality Assurance:
             7. Regular Feedback Loops: Frequent feedback from stakeholders to align with requirements.
 
       -Importance of Maintaining High Standards:
-            1.Reliability:** Ensures the software performs consistently and is free of critical bugs.
-            2.User Satisfaction:** High-quality software meets user expectations, leading to higher satisfaction.
-            3.Cost-Efficiency:** Early detection of defects reduces the cost and effort of fixing issues later.
-            4.Reputation:** Maintaining quality builds trust and enhances the reputation of the development team or company.
+            1.Reliability: Ensures the software performs consistently and is free of critical bugs.
+            2.User Satisfaction: High-quality software meets user expectations, leading to higher satisfaction.
+            3.Cost-Efficiency: Early detection of defects reduces the cost and effort of fixing issues later.
+            4.Reputation: Maintaining quality builds trust and enhances the reputation of the development team or company.
             
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
