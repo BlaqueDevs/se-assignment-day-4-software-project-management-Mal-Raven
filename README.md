@@ -134,6 +134,30 @@ Answer: Benefits of Developing a Detailed Project Schedule:
                - Gantt charts can be updated regularly to reflect the current status of tasks. This dynamic updating helps in tracking progress and making necessary adjustments to the                    schedule as the project progresses.
    
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Answer: Core Issues to be addressed by my software includes:
+            1. Inefficiency:
+                 - Many organizations struggle with inefficient processes that waste time, resources, and money. My software aims to streamline workflows, automate repetitive tasks,                        improve communication, all of which contribute to greater efficiency.
+            2. Data Management:
+                 - Handling large volumes of data can be challenging, especially when it comes to organizing, analyzing, and accessing information. My software offers robust data                           management solutions, it can help users make better decisions, maintain data integrity, and ensure compliance with regulations.
+            3. User Experience:
+                 - Poor user interfaces or complicated processes can lead to frustration and lower productivity. My software simplifies the user experience and makes it more intuitive,                     it can significantly improve user satisfaction and engagement.
+            4. Scalability:
+                 - As businesses grow, their needs evolve. My software is designed to scale with the business, it ensures that users won’t outgrow it and can continue to rely on it as                      their operations expand.
+            5. Security:
+                 - In an increasingly digital world, data security is paramount. My software addresses security concerns, whether through encryption, secure access controls and regular                     updates. It provides peace of mind to users worried about data breaches or loss.
+
+      Significance to the Target Audience:
+         1. Efficiency and Productivity**:
+           - Businesses are constantly looking for ways to do more with less. By addressing inefficiency, my software can help organizations save time and money, allowing them to                   focus on growth and innovation.
+         2. Data-Driven Decisions:
+           - With the right data management tools, users can turn raw data into actionable insights. This is critical for making informed decisions, staying competitive, and responding               quickly to market changes.
+         3. User Satisfaction:
+           - A better user experience translates into higher adoption rates, less training time, and lower support costs. Users are more likely to stick with my solution that feels                   intuitive and meets their needs without unnecessary complexity.
+         4. Growth and Flexibility:
+           - Scalability ensures that users won’t need to switch platforms as the business grows. This flexibility is a significant advantage, as it saves them the time, cost, and                  disruption associated with transitioning to new software.
+         5. Trust and Security:
+           - In sectors where data security is critical, such as finance or healthcare, addressing security concerns is essential. My software’s security features can help users                    protect sensitive information, avoid regulatory fines, and maintain customer trust.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
