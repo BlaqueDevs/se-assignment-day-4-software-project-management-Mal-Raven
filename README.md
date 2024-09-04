@@ -98,40 +98,40 @@ Answer: How Defining Project Scope Contributes to Successful Project Planning:
                   
       Work Breakdown Structure (WBS): This is a hierarchical decomposition of a project into smaller, more manageable components or tasks. It                  breaks down the entire scope of work required to complete the project into individual deliverables, sub-deliverables, and work                     packages. It's importance includes:  
                   1. Enhanced Planning and Scheduling:
-                     - By breaking the project down into smaller tasks, a WBS makes it easier to plan and schedule work. It helps project managers identify dependencies, set timelines,                         and allocate resources for each task.
+                     - By breaking the project down into smaller tasks, a WBS makes it easier to plan and schedule work. It helps project managers                        identify dependencies, set timelines and allocate resources for each task.
                   2. Improved Resource Allocation:
-                     - A WBS provides a clear view of all the tasks required, which aids in more accurate resource estimation and allocation. It ensures that resources are distributed                          effectively across all project components.
+                     - A WBS provides a clear view of all the tasks required, which aids in more accurate resource estimation and allocation. It                          ensures that resources are distributed effectively across all project components.
                   3. Better Cost Estimation and Control:
-                     - With each task defined and categorized, it's easier to estimate costs for each component of the project. This level of detail allows for more precise budgeting                           and cost control throughout the project's lifecycle.
+                     - With each task defined and categorized, it's easier to estimate costs for each component of the project. This level of                             detail allows for more precise budgeting and cost control throughout the project's lifecycle.
                   4. Risk Management:
-                     - A WBS helps in identifying potential risks at the task level, making it easier to develop mitigation strategies. It also enables more effective monitoring and                            management of risks as the project progresses.
+                     - A WBS helps in identifying potential risks at the task level, making it easier to develop mitigation strategies. It also                           enables more effective monitoring and management of risks as the project progresses.
                   5. Accountability and Responsibility:
-                     - By defining work packages and assigning them to team members, a WBS clarifies who is responsible for each task. This accountability ensures that all parts of the                         project are managed and completed as planned.
+                     - By defining work packages and assigning them to team members, a WBS clarifies who is responsible for each task. This                               accountability ensures that all parts of the project are managed and completed as planned.
                   
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Answer: Benefits of Developing a Detailed Project Schedule:
             1. Improved Time Management:
-               - A detailed project schedule helps break down the project into smaller tasks, with clear timelines for each. This makes it easier to manage time effectively, ensuring                     that the project stays on track and deadlines are met.
+               - A detailed project schedule helps break down the project into smaller tasks, with clear timelines for each. This makes it easier                   to manage time effectively, ensuring that the project stays on track and deadlines are met.
             2. Resource Optimization:
-               - With a detailed schedule, resources (e.g., personnel, equipment) can be allocated more efficiently, reducing idle time and avoiding overburdening resources. It ensures                   that the right resources are available at the right time.
+               - With a detailed schedule, resources (e.g., personnel, equipment) can be allocated more efficiently, reducing idle time and                         avoiding overburdening resources. It ensures that the right resources are available at the right time.
             3. Enhanced Communication:
-               - A well-structured schedule provides a clear plan that can be shared with all stakeholders, ensuring everyone is aligned on the project's progress and timelines. This                     transparency improves coordination and collaboration.
+               - A well-structured schedule provides a clear plan that can be shared with all stakeholders, ensuring everyone is aligned on the                     project's progress and timelines. This transparency improves coordination and collaboration.
             4. Risk Management:
-               - By outlining the sequence of tasks and their dependencies, a detailed schedule helps in identifying potential bottlenecks or delays. This foresight allows project                        managers to develop contingency plans and mitigate risks effectively.
+               - By outlining the sequence of tasks and their dependencies, a detailed schedule helps in identifying potential bottlenecks or                       delays. This foresight allows project managers to develop contingency plans and mitigate risks effectively.
             5. Progress Monitoring:
-               - A detailed schedule serves as a baseline against which the project's progress can be measured. It allows project managers to track whether tasks are being completed on                   time and to make adjustments if necessary.
+               - A detailed schedule serves as a baseline against which the project's progress can be measured. It allows project managers to                       track whether tasks are being completed on time and to make adjustments if necessary.
 
       How Gantt Charts Assist in Developing a Project Schedule:
             1. Visual Representation of the Schedule:
-               - Gantt charts provide a visual timeline of the project, displaying tasks as bars across a calendar. This makes it easy to see the start and end dates of each task, as                     well as their duration.  
+               - Gantt charts provide a visual timeline of the project, displaying tasks as bars across a calendar. This makes it easy to see the                   start and end dates of each task, as well as their duration.  
             2. Task Dependencies:
-               - Gantt charts can show dependencies between tasks, such as which tasks must be completed before others can begin. This helps in identifying critical paths and potential                   bottlenecks in the project timeline.
+               - Gantt charts can show dependencies between tasks, such as which tasks must be completed before others can begin. This helps in                     identifying critical paths and potential bottlenecks in the project timeline.
             3. Milestone Tracking:
-               - Gantt charts allow for the inclusion of milestones—key dates or deliverables—in the project timeline. This makes it easy to track progress toward major goals and                         ensures that the project is moving in the right direction.
+               - Gantt charts allow for the inclusion of milestones—key dates or deliverables—in the project timeline. This makes it easy to track                  progress toward major goals and ensures that the project is moving in the right direction.
             4. Resource Allocation:
-               - By mapping out tasks on a Gantt chart, project managers can better understand the resource requirements over time. This aids in balancing workloads and avoiding                          resource conflicts.
+               - By mapping out tasks on a Gantt chart, project managers can better understand the resource requirements over time. This aids in                    balancing workloads and avoiding resource conflicts.
             5. Progress Updates:
-               - Gantt charts can be updated regularly to reflect the current status of tasks. This dynamic updating helps in tracking progress and making necessary adjustments to the                    schedule as the project progresses.
+               - Gantt charts can be updated regularly to reflect the current status of tasks. This dynamic updating helps in tracking progress                     and making necessary adjustments to the schedule as the project progresses.
    
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Answer: Core Issues to be addressed by my software includes:
